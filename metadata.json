@@ -1,0 +1,5 @@
+{
+  "name": "JSR Hospital Management System",
+  "description": "A comprehensive hospital management prototype featuring patient records, doctor scheduling, billing, ambulance tracking, and more.",
+  "requestFramePermissions": []
+}
